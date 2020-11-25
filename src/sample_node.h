@@ -1,3 +1,5 @@
+#pragma once
+
 namespace morris_traversal {
 
 template<typename T>
